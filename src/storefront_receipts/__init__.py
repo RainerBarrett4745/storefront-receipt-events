@@ -1,0 +1,1 @@
+"""Storefront receipt tracking example."""
